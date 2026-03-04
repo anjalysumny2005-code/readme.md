@@ -1,0 +1,6 @@
+/admin
+/uploads
+/secret
+/config
+
+Directory enumeration completed.
