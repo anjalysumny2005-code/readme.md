@@ -1,0 +1,8 @@
+Starting Nmap Scan
+
+PORT     STATE SERVICE
+21/tcp   open  ftp
+22/tcp   open  ssh
+80/tcp   open  http
+
+Nmap done.
