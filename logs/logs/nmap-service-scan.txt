@@ -1,0 +1,5 @@
+21/tcp open  ftp     vsftpd 3.0.3
+22/tcp open  ssh     OpenSSH 7.6p1 Ubuntu
+80/tcp open  http    Apache 2.4.29
+
+Service detection completed.
