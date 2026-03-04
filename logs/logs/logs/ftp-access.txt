@@ -1,0 +1,10 @@
+Connected to FTP server.
+Anonymous login allowed.
+
+Files discovered:
+- note.txt
+- credentials.txt
+
+Credentials found:
+username: user
+password: password123
